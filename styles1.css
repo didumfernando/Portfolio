@@ -12,8 +12,36 @@ p{
   color: black;
 
 }
+h2{
+  text-align: center;
+  color: gray;
+  font-family: system-ui;
+  font-size: 200%;
+
+}
+h3{
+  text-align: center;
+  color: black;
+  font-family: system-ui;
+  font-size:  150%;
+
+
+}
 p1{
   text-align: center;
+  color: black;
+  font-family:system-ui;
+  font-size: 100%
 
-
+}
+ul {
+  text-align: center;
+  list-style-position: inside;
+  font-family: system-ui;
+}
+h4{
+  text-align: center;
+  font-family: system-ui;
+  font-size: 150%;
+  color: black
 }
